@@ -11,3 +11,5 @@ smile.jpg
 test.pro
 test.pro.user
 
+PS : le git contenant le revert est à l'adresse https://github.com/mfd-tchad/ExosQtCpp.git
+Ce git ExoCpp.git en est un extrait
